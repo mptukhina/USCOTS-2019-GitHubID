@@ -34,7 +34,7 @@
 | Adam Sullivan | sullivanstatistics | |
 |Leigh Johnson | drleigh | |
 | Bradford | dykesb | <https://dykesb.github.io> |
-
+|Marina | mptukhina | |
 <br>
 
 # Integration of RStudio with Git
